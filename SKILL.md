@@ -5,9 +5,12 @@
 
 ## 前置条件
 使用前请确保：
-1. 已安装 Python 依赖：`pip install -r requirements.txt`
-2. 已配置环境变量（参考 `.env.example` 创建 `.env` 文件）
-3. RAGFlow 服务可正常访问
+1. **已配置 RAGFlow 环境**（如未配置，请参考 RAGFLOW_SETUP.md）
+   - 已有运行中的 RAGFlow 服务
+   - 已获取 API Key 和 Chat ID
+2. 已安装 Python 依赖：`pip install -r requirements.txt`
+3. 已配置环境变量（参考 `.env.example` 创建 `.env` 文件）
+4. RAGFlow 服务可正常访问
 
 ## 触发条件
 当用户提出的问题涉及以下内容时使用此技能：

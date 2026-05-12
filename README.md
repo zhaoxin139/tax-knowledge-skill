@@ -11,6 +11,15 @@
 
 ## 安装步骤
 
+### ⚠️ 重要提示：RAGFlow 配置
+
+**此 skill 需要 RAGFlow 服务才能运行。** 如果你还没有 RAGFlow 环境，请先参考 [RAGFLOW_SETUP.md](RAGFLOW_SETUP.md) 进行配置。
+
+**快速选项：**
+1. 🏢 **公司已有 RAGFlow** → 联系管理员获取 API Key 和 Chat ID
+2. 💻 **自行部署** → 参考 [RAGFLOW_SETUP.md](RAGFLOW_SETUP.md) 的方案 B
+3. ☁️ **使用云服务** → 参考 [RAGFLOW_SETUP.md](RAGFLOW_SETUP.md) 的方案 C
+
 ### 1. 安装依赖
 
 ```bash

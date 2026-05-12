@@ -1,5 +1,12 @@
 # 快速开始指南
 
+## ⚠️ 前置条件
+
+**此 skill 需要 RAGFlow 服务才能使用。**
+
+- ✅ **已有 RAGFlow**：联系管理员获取 API Key 和 Chat ID
+- ❌ **没有 RAGFlow**：请先阅读 [RAGFLOW_SETUP.md](RAGFLOW_SETUP.md) 进行配置
+
 ## 5 分钟快速上手
 
 ### 步骤 1: 安装依赖
