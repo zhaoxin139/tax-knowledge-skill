@@ -1,6 +1,6 @@
 # TAX Knowledge Skill
 
-基于 RAGFlow 的税务知识智能问答技能。
+税务知识智能问答技能。
 
 ## 快速开始
 
@@ -18,7 +18,9 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-### 4. 测试运行
+编辑 `.env` 文件，填入你的 RAGFlow 配置。
+
+### 3. 测试运行
 
 ```bash
 python query_tax.py "增值税税率是多少？"
