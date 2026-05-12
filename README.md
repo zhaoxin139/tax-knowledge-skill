@@ -131,3 +131,16 @@ pip install requests
 ## 联系方式
 
 如有问题，请联系：zhao xin
+
+### 提交反馈
+
+我们欢迎所有形式的反馈！如果你遇到问题或有建议，请通过以下方式联系我们：
+
+1. **GitHub Issues**（推荐）：https://github.com/zhaoxin139/tax-knowledge-skill/issues
+   - 🐛 [报告 Bug](https://github.com/zhaoxin139/tax-knowledge-skill/issues/new?template=bug_report.md)
+   - 💡 [提出功能建议](https://github.com/zhaoxin139/tax-knowledge-skill/issues/new?template=feature_request.md)
+   - ❓ [寻求配置帮助](https://github.com/zhaoxin139/tax-knowledge-skill/issues/new?template=config_help.md)
+
+2. **直接联系**：发送邮件至 zhaoxin@example.com
+
+在提交 issue 之前，请先搜索是否已有类似的问题，避免重复。
