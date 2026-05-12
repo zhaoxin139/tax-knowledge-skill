@@ -177,6 +177,18 @@ docker-compose ps
 
 #### 步骤 8：配置 Skill
 
+**推荐使用配置向导（最简单）：**
+
+```bash
+python setup_config.py
+```
+
+向导会引导你完成所有配置，并自动测试连接。
+
+---
+
+**或者手动配置：**
+
 1. **创建 `.env` 文件**：
    ```bash
    cp .env.example .env

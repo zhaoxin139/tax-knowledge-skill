@@ -28,6 +28,22 @@ pip install -r requirements.txt
 
 ### 2. 配置环境变量
 
+#### 方式 A：使用配置向导（推荐）✨
+
+运行交互式配置向导，按照提示输入信息：
+
+```bash
+python setup_config.py
+```
+
+向导会：
+- 📖 提供获取 API Key 的指引
+- 🔍 验证输入格式
+- 🔗 测试 API 连接
+- 💾 自动生成 `.env` 文件
+
+#### 方式 B：手动配置
+
 复制 `.env.example` 为 `.env` 文件：
 
 ```bash

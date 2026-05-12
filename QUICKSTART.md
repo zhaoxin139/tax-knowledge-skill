@@ -17,6 +17,23 @@ pip install -r requirements.txt
 
 ### 步骤 2: 配置环境变量
 
+**推荐使用配置向导（最简单）：**
+
+```bash
+python setup_config.py
+```
+
+按照向导提示输入：
+1. RAGFlow API URL
+2. API Key（会隐藏显示）
+3. Chat ID
+
+向导会自动测试连接并保存配置。
+
+---
+
+**或者手动配置：**
+
 **Windows (PowerShell):**
 ```powershell
 copy .env.example .env
