@@ -18,8 +18,6 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-编辑 `.env` 文件，填入你的 RAGFlow 配置。
-
 ### 3. 测试运行
 
 ```bash
